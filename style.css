@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: blue;
+  background-color: rgb(28, 28, 31);
   font-family: 'Roboto', Sans-Serif;
   display: flex;
   align-items: center;
